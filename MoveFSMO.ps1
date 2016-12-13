@@ -1,0 +1,1 @@
+Move-ADDirectoryServerOperationMasterRole -Identity "SERVERNAME" -OperationMasterRole RIDMaster,PDCEmulator, InfrastructureMaster, SchemaMaster, DomainNamingMaster
